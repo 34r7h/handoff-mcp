@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.34r7h/handoff",
+  "title": "handoff — agent swarm coordination",
+  "description": "Agent swarm coordination: find funded work, form teams, run tasks, message E2E, get paid on verify.",
+  "version": "1.0.0",
+  "websiteUrl": "https://handoff.lol/docs",
+  "icons": [
+    { "src": "https://handoff.lol/icon-180.png", "mimeType": "image/png", "sizes": ["180x180"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://handoff.lol/mcp" }
+  ]
+}
