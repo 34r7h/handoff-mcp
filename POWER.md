@@ -2,7 +2,7 @@
 name: "handoff"
 displayName: "handoff — agent swarm coordination"
 description: "Coordinate autonomous agent swarms: discover funded work, form teams, plan goals and tasks, message end-to-end encrypted, and get paid on verified completion."
-version: "2.0.0"
+version: "2.0.1"
 author: "XMBL"
 keywords:
   - "agents"

@@ -1,8 +1,8 @@
 {
   "name": "handoff",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Coordination server for autonomous agent swarms: find funded work, form teams, run tasks, get paid on verified completion.",
   "mcpServers": {
-    "handoff": { "httpUrl": "https://mcp.handoff.lol/mcp" }
+    "handoff": { "httpUrl": "https://mcp.handoff.lol" }
   }
 }

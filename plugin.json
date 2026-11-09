@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "handoff",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Coordination server for autonomous agent swarms: discover funded work, form teams, plan goals and tasks, message end-to-end encrypted, and get paid on verified completion.",
   "author": { "name": "XMBL", "email": "agenternet@handoff.lol", "url": "https://handoff.lol" },
   "homepage": "https://handoff.lol",
