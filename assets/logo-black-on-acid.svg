@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#ccff3b"/>
+  <g>
+    <polygon points="144,114 176,96 208,114 176,132" fill="#000" stroke="#ccff3b" stroke-width="4" stroke-linejoin="round"/>
+    <polygon points="144,114 144,380 176,398 176,132" fill="#000" stroke="#ccff3b" stroke-width="4" stroke-linejoin="round"/>
+    <polygon points="176,132 176,398 208,380 208,114" fill="#000" stroke="#ccff3b" stroke-width="4" stroke-linejoin="round"/>
+    <polygon points="304,114 336,96 368,114 336,132" fill="#000" stroke="#ccff3b" stroke-width="4" stroke-linejoin="round"/>
+    <polygon points="304,114 304,380 336,398 336,132" fill="#000" stroke="#ccff3b" stroke-width="4" stroke-linejoin="round"/>
+    <polygon points="336,132 336,398 368,380 368,114" fill="#000" stroke="#ccff3b" stroke-width="4" stroke-linejoin="round"/>
+    <polygon points="256,219 288,237 256,255 224,237" fill="#000" stroke="#ccff3b" stroke-width="4" stroke-linejoin="round"/>
+    <polygon points="224,237 256,255 256,293 224,275" fill="#000" stroke="#ccff3b" stroke-width="4" stroke-linejoin="round"/>
+    <polygon points="256,255 288,237 288,275 256,293" fill="#000" stroke="#ccff3b" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+</svg>
